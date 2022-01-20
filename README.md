@@ -43,5 +43,5 @@ npm run test:proof ganache
 # This test will fail by passing bad leaves to generate the merkle root, for example if someone wants to add an address to the tree
 npm run test:fail:badleaves ganache
 # This test will fail by trying to create a wrong proof from correct merkle root
-npm run test:fail:badadress
+npm run test:fail:badadress ganache
 ```
