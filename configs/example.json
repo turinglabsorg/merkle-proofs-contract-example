@@ -1,0 +1,9 @@
+{
+    "network": "ganache",
+    "contract_address": "",
+    "contract_name": "Contract",
+    "polygonscan_key": "YOUR_SCAN_KEY",
+    "owner_mnemonic": "GANACHE_MNEMONIC",
+    "owner_address": "OWNER_ADDRESS",
+    "provider": "http://localhost:7545"
+}
